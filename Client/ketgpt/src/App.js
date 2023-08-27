@@ -92,7 +92,7 @@ function App() {
                 
 
             </input>
-            <i class="fa-solid fa-paper-plane-top"></i>
+            <i class="fa-solid fa-paper-plane-top"></i> 
             
           </form>
           
